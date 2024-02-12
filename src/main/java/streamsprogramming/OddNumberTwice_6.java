@@ -1,7 +1,7 @@
 package streamsprogramming;
 import java.util.Arrays;
 import java.util.stream.IntStream;
-public class EvenNumberTwice {
+public class OddNumberTwice_6 {
 
     //Given a list of integers, filter out the even numbers and then double each remaining number using streams.
         public static void main(String args[]){
